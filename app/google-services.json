@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148947692008",
+    "project_id": "songsfirebase-fd8ff",
+    "storage_bucket": "songsfirebase-fd8ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148947692008:android:790231a1ba73f2d7e7dc5d",
+        "android_client_info": {
+          "package_name": "com.example.songsfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148947692008-msqud0eklgtu251i8l7ic6n31lqu41ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmCEjI4EuF5aMgukSNz2LHAw5Qmco6R5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148947692008-msqud0eklgtu251i8l7ic6n31lqu41ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
